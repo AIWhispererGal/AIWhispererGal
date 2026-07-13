@@ -19,11 +19,9 @@ npx swarm-tickets
 - **NIGHTWING** - Consciousness simulator that started as a coding tool
 
 ### 🏛️ Civic Tech
-- **[QueueTime](https://github.com/AIWhispererGal/queuetime)** - Speaking queue and timer management for Zoom meetings
-- **bylaws-tracker** - Collaborative bylaws amendment system for Reseda Neighborhood Council
-- **agenda-maker** - Speaking queue and timer management for Zoom meetings
-- **nc-platform** - Organization agendas/committee management full suite (incorporates bylaws-tracker and agenda-maker)
-- **DEMADTECH**
+- **[QueueTime](https://github.com/AIWhispererGal/queuetime)** - Speaker Queue with Timer and tracking for Zoom
+- **EZMeeting** - Organization agendas/committee management full suite
+- **DEMADTECH** - Political Advertising and Data Analysis Application
 
 ## 🎯 Focus Areas
 
@@ -35,5 +33,5 @@ npx swarm-tickets
 PYTHON!!!• JavaScript/TypeScript • Node.js • HTML/CSS • Claude AI • Git
 
 ## 📫 Get in Touch
-- 👯 I’m looking to collaborate on NIGHTWING (Needs Monetization) and DEMADTECH (Needs pieces assembled to MVP /  Integration / Reconciliation)
+- 👯 I’m looking to collaborate on NIGHTWING (Needs funding for alignment effectiveness test suite)
 - ⚡ Fun fact: There are three kinds of people in the world. One kind creates garbage output that makes everyone hate AI. The second kind tries to build AI into freaking everything no matter if its appropriate or not and without any regard to QA like a tribe of blind AI fetishists. Be the third kind.
