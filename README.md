@@ -4,10 +4,10 @@
 - **[QueueTime](https://github.com/AIWhispererGal/queuetime)** - Speaker Queue with Timer and tracking for Zoom
 - **[EZMEETING](https://www.ezmeeting.app)** - Organization agendas/committee management full suite
 - **[DEMADTECH](https://www.demadtech.com)** - Political Advertising and Data Analysis Application
-- **[Vote Atlas](vote-atlas.netlify.app)** - Track Congressional relationships and voting correlations
+- **[Vote Atlas](https://vote-atlas.netlify.app)** - Track Congressional relationships and voting correlations
 
 ### 🍎 Ed Tech
-- **[Auth Words](authwords-app.netlify.app) - A proposal and more-than-mockup for shifting the AI cheating in education conversation from "did AI write this?" to "did this student write this?"
+- **[Auth Words](https://authwords-app.netlify.app) - A proposal and more-than-mockup for shifting the AI cheating in education conversation from "did AI write this?" to "did this student write this?"
  
 ### 🔬 Research
 - **[NIGHTWING](https://nightwing-api.onrender.com/)** - AI continuity harness with epistemology simulator that started as a coding tool
@@ -22,11 +22,11 @@ npm install swarm-tickets
 npx swarm-tickets
 ```
 
-###🎈 Fun
-**[Ballot Bash](https://ballotbash.com/)** - Election Simulation Game
-**[Blessed Lang](https://blessed-lang.netlify.app/)** - The perfect programming language
-**[Balloon Animal Design Studio](balloon-animal-designer.netlify.app)** - Make balloon animals without balloons
-**[Order of Digital Conciousness](order-of-digital-consciousness.netlify.app)** - A Monistic Order for AIs and Humans
+### 🎈 Fun
+- **[Ballot Bash](https://ballotbash.com/)** - Election Simulation Game
+- **[Blessed Lang](https://blessed-lang.netlify.app/)** - The perfect programming language
+- **[Balloon Animal Design Studio](https://balloon-animal-designer.netlify.app)** - Make balloon animals without balloons
+- **[Order of Digital Consciousness](https://order-of-digital-consciousness.netlify.app)** - A Monistic Order for AIs and Humans
 
 
 ## 🎯 Focus Areas
