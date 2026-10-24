@@ -7,7 +7,8 @@
 - **[Vote Atlas](vote-atlas.netlify.app)** - Track Congressional relationships and voting correlations
 
 ### 🍎 Ed Tech
-
+- **[Auth Words](authwords-app.netlify.app) - A proposal and more-than-mockup for shifting the AI cheating in education conversation from "did AI write this?" to "did this student write this?"
+ 
 ### 🔬 Research
 - **[NIGHTWING](https://nightwing-api.onrender.com/)** - AI continuity harness with epistemology simulator that started as a coding tool
 
@@ -29,7 +30,6 @@ npx swarm-tickets
 
 
 ## 🎯 Focus Areas
-
 - 🤖 **AI-Human Collaboration** - Building tools that enhance how humans and AI work together
 - 🏙️ **Civic Technology** - Making local government more accessible
 
